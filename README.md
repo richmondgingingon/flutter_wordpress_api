@@ -12,6 +12,7 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## How to use this
+- Please run `flutter pub get` to get all the packages
 - Install JWT Auth - WordPress JSON Web Token Authentication plugin
 - Modify wp-config on your WordPress file and add this line: <br> 
     `define( 'JWT_AUTH_SECRET_KEY', 'your-top-secret-key');`
